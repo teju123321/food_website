@@ -1,0 +1,40 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.bg-main-image {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-static-website/hotelbg.png");
+    height: 100vh;
+    background-size: cover;
+}
+
+.bg-card-container {
+    background-color: #000000e6;
+    color: #ffffff;
+    padding: 15px;
+    border-radius: 25px;
+}
+
+.bg-card-heading {
+    font-family: "Bree Serlif";
+    font-size: 30px;
+}
+
+.bg-card-description {
+    font-family: "Roboto";
+}
+
+.bg-main-button {
+    width: 125px;
+    border-radius: 8px;
+    padding: 6px;
+}
+
+.button-container {
+    text-align: center;
+    margin: 20px;
+}
+.bottom-description{
+    color:red;
+}
+.bg-card-container{
+    background-color:aqua;
+}
